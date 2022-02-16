@@ -7,7 +7,3 @@ def saludo(nombre):
 nombre = recibir_datos()
 
 saludo(nombre)
-
-
-
-
